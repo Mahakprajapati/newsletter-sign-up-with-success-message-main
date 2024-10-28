@@ -12,6 +12,7 @@ main{
    display: flex;
    justify-content: center;
    align-items: center;  
+   flex-direction: column;
 }
 
 /* sign-up */
@@ -180,16 +181,13 @@ input{
    /* Success message */
 
    .success-container{
+    width: 270px;
     height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     top: 328px;
    }
-   .success-text-container{
-    margin-top: 6rem;
-   }
-
 }
 
 
