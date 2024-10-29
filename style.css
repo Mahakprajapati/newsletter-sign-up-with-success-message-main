@@ -179,10 +179,10 @@ input{
    /* Success message */
 
    .success-container{
-    background-color: orange;
+   
     width: 280px;
     min-height: 526px;
-    top: 50%;
+    top: 62%;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
