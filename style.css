@@ -182,7 +182,7 @@ input{
    
     width: 280px;
     min-height: 526px;
-    top: 62%;
+    /* top: 62%; */
     display: flex;
     flex-direction: column;
     justify-content: space-between;
